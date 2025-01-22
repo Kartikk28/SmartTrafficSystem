@@ -1,6 +1,6 @@
 # Smart Traffic System 🚦
 
-This project is a simple Smart Traffic System** simulation designed to practice and apply Object-Oriented Programming (OOP) concepts. It's a personal project that reflects my journey of experimenting with Java and diving deeper into OOP principles like encapsulation, inheritance, and polymorphism.
+This project is a simple Smart Traffic System simulation designed to practice and apply Object-Oriented Programming (OOP) concepts. It's a personal project that reflects my journey of experimenting with Java and diving deeper into OOP principles like encapsulation, inheritance, and polymorphism.
 
 The project models:
 - Traffic Lights that cycle through colors (RED, GREEN, YELLOW) dynamically.
