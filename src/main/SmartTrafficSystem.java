@@ -10,7 +10,7 @@ public static void main(String[] args) throws InterruptedException{
 //		inter.cycleAllLights();
 //		inter.displayIntersection();
 //		
-			System.out.println("hi");
+			System.out.println("Hey!");
 		}
 	}
 	
